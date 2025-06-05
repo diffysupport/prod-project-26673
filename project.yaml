@@ -27,7 +27,7 @@ basic:
         compare_with_fresh: production
 advanced:
     mask: ''
-    remove: ''
+    remove: .cky-consent-container
     delay: 15
     scroll: true
     headers:
