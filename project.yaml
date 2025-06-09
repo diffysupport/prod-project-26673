@@ -28,7 +28,7 @@ basic:
 advanced:
     mask: ''
     remove: .cky-consent-container
-    delay: 15
+    delay: 20
     scroll: true
     headers:
         - { header: '', value: '' }
